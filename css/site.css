@@ -33,5 +33,12 @@ h1 {
   padding: 10px;
   margin-bottom: 10px;
   border: solid 1px #ffffff;
-  background-color: #ecc16f;
+  background-color  : #ecc16f;
+}
+
+.lab-links {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #ffffff;
+  background-color: #d6ad62;
 }
