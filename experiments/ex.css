@@ -1,0 +1,23 @@
+#title {
+    font-size: 600%;
+}
+
+h1,h2,h3 {
+    font-family:'Courier New', Courier, monospace;
+  }
+
+  h1 {
+    letter-spacing: 5px;
+    word-spacing: 3px;
+    color: rgb(67, 33, 14);
+  }  
+
+  body {
+    background-color: #deaf68;
+  }
+
+  #input {
+
+    margin-bottom: 10px; /* Adds space below each paragraph */
+
+  }
