@@ -4,3 +4,8 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+
+  #output {
+    font-family: 'Courier New', Courier, monospace;
+    color: #3f3636
+  }
